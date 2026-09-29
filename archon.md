@@ -1,4 +1,5 @@
 ### Inner Index
+[[projects/archon/.gitignore]]
 [[projects/archon/archive/archive.md]]
 [[projects/archon/development/development.md]]
 [[projects/archon/README.md]]
