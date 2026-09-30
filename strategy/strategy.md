@@ -1,5 +1,6 @@
 ### Inner Index
 [[projects/archon/strategy/action_plan.md]]
+[[projects/archon/strategy/constraints.md]]
 [[projects/archon/strategy/unknowns.md]]
 ### Outer Index
 
@@ -7,7 +8,7 @@
 
 ## Purpose
 
-ARCHON is a simulator for organisational design. It abstractly represents an organisation as people, roles and the connections between them, runs it under realistic conditions, and measures how well its structure achieves given objectives.
+ARCHON is a simulator for organisational design. It abstractly represents an organisation as people, roles and the connections between them, runs it under realistic conditions, and measures how well its structure meets given criteria.
 Structure decides which information reaches which decision. People act on partial, delayed and sometimes distorted views of reality, while the consequences of their decisions fall on reality itself. Two organisations with the same people and resources can therefore perform very differently. ARCHON makes that difference visible and measurable.
 
 ## Design principles
@@ -18,7 +19,7 @@ Structure decides which information reaches which decision. People act on partia
 
 ## Scope
 
-- **Now:** model an organisation, simulate it, and evaluate its structure against an objective, including comparing alternative structures under identical conditions.
+- **Now:** model an organisation, simulate it, and evaluate its structure against a criterion, including comparing alternative structures under identical conditions.
 - **Designed for:** searching for and recommending better structures. The core is built so this can be added on top without redesign.
 - **Scale:** start from the smallest organisation that exhibits the core problem, and grow step by step to large multi-level organisations, ultimately to the scale of a city.
 

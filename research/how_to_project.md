@@ -1,7 +1,8 @@
-Define starting architecture: strategy, research, development, archive
-Inside strategy: action_plan, unknowns
-Inside research: processes, projects (both are assuming such things are needed)
-	Inside processes: architecture_design, to_research (both are assuming such things are needed)
+Define starting architecture: strategy, research, development, archive, processes, projects
+Inside strategy: action_plan, unknowns, constraints
+Inside research: processes, projects (both are assuming such things are needed), for work that starts and ends within research
+	Inside processes: to_research
+Inside processes and projects (project level): one folder per process or project whose result is for the whole project, each mirroring the project with strategy, research, development (currently architecture_design)
 
 In strategy.md: Define purpose, objective, in a concise, clear manner, in a way that makes it clear what success looks like.
 Brainstorm and come up with various ideas and approaches and perspective and related fields and concepts. Then pass that all to Claude and ask for references, research paper, current state and precedents.
