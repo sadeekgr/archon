@@ -76,4 +76,4 @@ Working design. Nothing here is final. Open questions are in this process's unkn
 - Measure: a quantity the observers compute for any run.
 - Criterion: the level or condition the observers judge by. The organisation need not know it.
 - Aim: what the organisation or an agent strives towards. It belongs to them.
-- Performance depends on the criterion. The kinds of criterion and aim the design must allow are listed in the project's constraints.
+- Performance depends on the criterion. The design must allow many kinds of criterion and aim, alone or together, as set out in this process's constraints.
